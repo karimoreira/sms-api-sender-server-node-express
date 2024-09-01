@@ -36,3 +36,10 @@ neste projeto, eu criei um servidor para enviar SMS utilizando a API da bibliote
 - Express.js
 - Twilio
 - Postman
+
+<p align="center">
+  <img src="img/cel.jpeg" alt="imagem do recebimento do sms" width="200"/>
+  <img src="img/image.png" alt="imagem de escuta na porta 3000" width="200"/>
+  <img src="img/imagepostman.png" alt="imagem do postman com status 200" width="200"/>
+</p>
+
