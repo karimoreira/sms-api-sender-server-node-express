@@ -38,9 +38,9 @@ neste projeto, eu criei um servidor para enviar SMS utilizando a API da bibliote
 - Postman
 
 <p align="center">
-  <img src="img/cel.jpeg" alt="imagem do recebimento do sms" width="400"/>
-  <img src="img/image.png" alt="imagem de escuta na porta 3000" width="400"/>
-  <img src="img/imagepostman.png" alt="imagem do postman com status 200" width="400"/>
+  <img src="img/cel.jpeg" alt="imagem do recebimento do sms" width="300"/>
+  <img src="img/image.png" alt="imagem de escuta na porta 3000" width="300"/>
+  <img src="img/imagepostman.png" alt="imagem do postman com status 200" width="300"/>
 </p>
 
 
